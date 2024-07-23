@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Carbinski
-- 👀 I’m interested in your mum
-- 🌱 I’m currently learning how to do it
-- 💞️ I’m looking to collaborate on collaboration
-- 📫 How to reach me: 911
+- 👀 I’m interested in Machine Learning, Cybersecurity, Computer Networks, Economics, and Finance
+- 🌱 I’m currently learning Pytorch, Java, French, Chinese
+
+I'm a 2nd year college student studying Computer Science.
 
 <!---
 Carbinski/Carbinski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
