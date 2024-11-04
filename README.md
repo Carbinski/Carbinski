@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Carbinski
-- 👀 I’m interested in Machine Learning, Cybersecurity, Computer Networks, Economics, and Finance
-- 🌱 I’m currently learning Pytorch, Java, French, Chinese
 
 I'm a 2nd year college student studying Computer Science.
 
