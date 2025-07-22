@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Carbinski
 
-I'm a 2nd year college student studying Computer Science.
+I'm a 3rd year college student studying Computer Science.
 
 <!---
 Carbinski/Carbinski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
