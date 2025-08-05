@@ -7,6 +7,7 @@
 💡 I enjoy working on projects that blend practical utility with thoughtful design. Whether it's mobile apps, backend systems, or scripting tools, I’m always looking to grow as an engineer and collaborator.
 
 🧠 Currently exploring:
+- Facial Recognition
 - iOS development with **SwiftUI**
 - Real-time databases and **Firebase** integration
 - Leetcode 💀💀💀
@@ -15,6 +16,10 @@
 ---
 
 > “An inspirational quote.” 🚀
+> 
+> “A quote somehow more inspirational than the last one!” 🚀🚀
+> 
+> “The **most** inspirational quote!!” 🚀🚀🚀
 
 <!---
 Carbinski/Carbinski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
