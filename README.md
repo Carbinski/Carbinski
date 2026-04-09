@@ -1,17 +1,26 @@
-# 👋 Hi there, I’m @Carbinski
+### Hi there — I'm Carson McNeill
 
-🎓 I'm a 3rd-year Computer Science student with a passion for building useful, user-friendly software.
+I'm a **Computer Science** undergrad at [**Georgia Tech**](https://www.gatech.edu/) (expected **May 2027**), concentrating in **Intelligence & Internetworking** (Info/Internetwork-Intelligence) with coursework and project work in **machine learning**, **systems**, and **full-stack** development. I care about building end-to-end products: mobile and web apps, research pipelines, and performance-minded AI — from pose estimation in a healthcare lab to hackathon-winning developer tools.
 
-📱 Most recently, I’ve been working on **The BUKU App**, a Swift-based iOS marketplace tailored for college students. I’ve been developing both the frontend in **SwiftUI** and the backend using **Firebase**, focusing on region-based listings and smooth user experiences.
+---
 
-💡 I enjoy working on projects that blend practical utility with thoughtful design. Whether it's mobile apps, backend systems, or scripting tools, I’m always looking to grow as an engineer and collaborator.
+### What I'm up to
 
-🧠 Currently exploring:
-- Facial Recognition
-- iOS development with **SwiftUI**
-- Real-time databases and **Firebase** integration
-- Leetcode 💀💀💀
-- Open-source contributions & hackathons
+- **ViTAL Lab** — Video-to-pose pipelines (e.g. YOLOv8, ViTPose-style workflows), behavioral analysis for profoundly autistic subjects, Kalman smoothing, and tooling for collaborators and Georgia Tech reporting.
+- **GT iOS Club** — Leading the **SyncHub** content-management subteam (Figma-like study media organization); building **CanvasPlus** features (e.g. Spotlight-style search) for a Mac Canvas redesign; past work on **SkillSwap** (gamification, MVVM, Firebase).
+
+---
+
+### Selected projects
+
+| Project | Notes |
+|--------|--------|
+| [**Portfolio site**](https://carbinski-github-io.vercel.app/) | React + Vercel — projects, skills, contact. |
+| [**LeBallerBots**](https://github.com/Carbinski/LeBallerBots) | [**ByteFight**](https://bytefight.org/home) competition bot — ~**2000 Elo**, **top ~15**; MCTS, alpha-beta, A*, C++/nanobind, SPSA; KOTH + painting + teleportation ruleset. |
+| [**Chess engine**](https://github.com/Carbinski/chess_engine) | Alpha-beta, minimax, transposition tables, null-move, quiescence — **~2100+ Elo** estimated. |
+| [**InfraBlocks**](https://github.com/infrablocks-oss/InfraBlocks) | **HackGT 12** — Best Developer Tool: React Flow + Terraform + AWS. |
+| [**SpecTackles**](https://github.com/Carbinski/HackGT-Temp) | **HackGT 11** — AR smart-home control (Lens Studio + web). |
+| [**The BUKU App**](https://apps.apple.com/us/app/the-buku-app/id6751913315) | Published **iOS** marketplace (Swift, Firebase). |
 
 ---
 
