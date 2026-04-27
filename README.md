@@ -6,7 +6,7 @@ I'm a **Computer Science** undergrad at [**Georgia Tech**](https://www.gatech.ed
 
 ### What I'm up to
 
-- **ViTAL Lab** — Video-to-pose pipelines (e.g. YOLOv8, ViTPose-style workflows), behavioral analysis for profoundly autistic subjects, Kalman smoothing, and tooling for collaborators and Georgia Tech reporting.
+- [**ViTAL Lab**](https://kwonvitallab.github.io) — Video-to-pose pipelines (e.g. YOLOv8, ViTPose-style workflows), behavioral analysis for profoundly autistic subjects, Kalman smoothing, and tooling for collaborators and Georgia Tech reporting.
 - **LASRP** — Co-developing a public [**directory of LA-area social resources**](https://lasrp-site.vercel.app/) with a medical-student partner; roadmap includes AI-assisted data pipelines.
 - **GT iOS Club** — Leading the **SyncHub** content-management subteam (Figma-like study media organization); building **CanvasPlus** features (e.g. Spotlight-style search) for a Mac Canvas redesign; past work on **SkillSwap** (gamification, MVVM, Firebase).
 
