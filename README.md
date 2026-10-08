@@ -8,7 +8,6 @@ I'm a **Computer Science** undergrad at [**Georgia Tech**](https://www.gatech.ed
 
 - **Amazon Web Services: SDE Intern** (Fall 2026): Own enhancements to customer-scheduled tunnel maintenance for **AWS Site-to-Site VPN** in Scala, including design and CX docs.
 - [**ViTAL Lab**](https://kwonvitallab.github.io): Enhancing a YOLO, OSNet ReID, and ViTPose pipeline that helps identify behaviors in profoundly autistic subjects; raised re-ID F1 score by 40% against 1,000+ hand-labeled images.
-- [**EchoChamber**](https://echo-chamber-lac.vercel.app): Letterboxd-style social app for logging, rating, and sharing albums with friends, with a 3D cover-flow feed and friends' consensus scores.
 - **LASRP**: Co-developing a public [**directory of LA-area social resources**](https://lasrp-site.vercel.app/) with a medical-student partner; roadmap includes AI-assisted data pipelines.
 
 ### Previously
