@@ -1,4 +1,4 @@
-### Hi there, I'm Carson McNeill
+### Hi there, I'm Carson
 
 I'm a **Computer Science** undergrad at [**Georgia Tech**](https://www.gatech.edu/) (expected **May 2027**), concentrating in **Intelligence & Internetworking** (Info/Internetwork-Intelligence) with coursework and project work in **machine learning**, **systems**, and **full-stack** development.
 
